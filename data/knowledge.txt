@@ -1,0 +1,90 @@
+TECHSTORE CUSTOMER SUPPORT KNOWLEDGE BASE
+
+COMPANY INFORMATION
+
+TechStore is an online electronics store that sells
+laptops, smartphones, headphones, accessories and other
+electronic products.
+
+
+ORDER INFORMATION
+
+Customers can track their orders using their order ID.
+
+Standard delivery usually takes 3 to 7 business days.
+
+Customers receive an order confirmation after successfully
+placing an order.
+
+
+CANCELLATION POLICY
+
+An order can be cancelled before it is shipped.
+
+Once an order has been shipped, cancellation may not be
+available.
+
+
+RETURN POLICY
+
+Products can be returned within 7 days of delivery.
+
+Products should be returned in acceptable condition.
+
+Customers should contact customer support if they want
+to initiate a return.
+
+
+REFUND POLICY
+
+Refunds are processed after the returned product has been
+received and inspected.
+
+Refund processing generally takes 5 to 7 business days.
+
+
+PAYMENT METHODS
+
+TechStore supports:
+
+- Credit Card
+- Debit Card
+- UPI
+- Net Banking
+
+
+PAYMENT PROBLEMS
+
+If money has been deducted but the order was not created,
+the customer should contact customer support.
+
+The support team may create a support ticket to investigate
+the payment issue.
+
+
+ACCOUNT SUPPORT
+
+Customers can contact support for:
+
+- Login problems
+- Password problems
+- Account problems
+- Profile issues
+
+
+CUSTOMER SUPPORT
+
+Customer support is available Monday to Saturday,
+9 AM to 6 PM.
+
+Customers can request human-agent assistance when the
+AI assistant cannot resolve their issue.
+
+
+IMPORTANT RULE
+
+The AI assistant must not invent company policies,
+prices, order statuses, refund amounts or delivery dates.
+
+If the required information is not available, the AI
+assistant should ask the customer to contact human support.
