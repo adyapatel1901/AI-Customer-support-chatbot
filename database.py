@@ -1,7 +1,10 @@
 import sqlite3
+import os
 from datetime import datetime
 
 DATABASE = "database/chatbot.db"
+
+os.makedirs("database", exist_ok=True)
 
 
 def get_connection():
